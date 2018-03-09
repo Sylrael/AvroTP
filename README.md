@@ -11,7 +11,8 @@ Code generation : create class `User` based on the `scheme`
 `DataFileReader<User>`  
 
 ## Serializing and deserializing without code generation
-Without code generation : use of `scheme` and `GenrericRecord`
+Without code generation : use of `scheme` and `GenrericRecord`  
+
 `Schema`  
 `GenericRecord<GenericRecord>`  
 `DataFileWriter<GenericRecord>`  
